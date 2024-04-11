@@ -10,3 +10,4 @@ Branch (Branch Git): Un branch è una linea di sviluppo separata all'interno di 
 Merge: Il merge è il processo di combinare le modifiche da un branch all'altro. Ad esempio, è possibile unire le modifiche effettuate su un branch di sviluppo a quello principale del progetto.
 
 Pull Request (Richiesta di pull): Una richiesta di pull è una richiesta per incorporare le modifiche apportate in un branch all'interno di un altro branch, tipicamente il branch principale. È un meccanismo comune per la collaborazione su progetti Git, consentendo la revisione e l'approvazione delle modifiche prima che vengano messe in produzione.
+prova branch 2

@@ -12,4 +12,9 @@ Images (Immagini): Per inserire immagini utilizzando ![testo alternativo](URL de
 
 Code Blocks (Blocchi di codice): Per formattare blocchi di codice utilizzando tre backtick (`) prima e dopo il codice o utilizzando quattro spazi prima di ogni riga di codice.
 
+
+
+
+12git
+
 Tables (Tabelle): Per creare tabelle utilizzando la sintassi | Colonna 1 | Colonna 2 | seguita da una riga separata con | --- | --- | per definire la struttura della tabella.
